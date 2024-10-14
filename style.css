@@ -1,0 +1,20 @@
+body {
+    font-family: sans-serif;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/588b7aa846c3c45be3e8c430/1709658344082-OY6KMOGWA2KDQUKQHT43/What-does-phonk-mean.jpg?format=2500w);
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: white;
+}
+
+header {
+    font-size: 24px;
+}
+
+p {
+    font-size: 24px;
+}
